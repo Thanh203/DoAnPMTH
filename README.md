@@ -27,7 +27,7 @@
 - [ Firebase ] https://firebase.google.com/
 - [ API ] https://mona.media/api-la-gi/ 
 ## Phân công công việc:
-- [ Lê Minh Thành ](https://github.com/Thanh203) :
+- [ Lê Minh Thanh ](https://github.com/Thanh203) :
   + Đánh giá
   + Thanh toán online
   + Xem trước e-book
