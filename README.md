@@ -1,6 +1,6 @@
 ﻿# Môn: Thực hành đồ án án phần mềm
 ## Đề Tài: App bán sách <img src="https://cdn.tgdd.vn/GameApp/2/224129/Screentshots/apple-books-ung-dung-doc-sach-danh-rieng-cho-ios-224129-logo-08-06-2020.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
-### [Trường đại học Ngoại ngữ - Tin học TP.Hồ Chí Minh](https://huflit.edu.vn/) <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/09/Logo-DH-Ngoai-Ngu-Tin-Hoc-HUFLIT.png" alt="Loading" width="50" style ="border-radius:10% 50%; left: 50%;" />
+### [Trường đại học Ngoại ngữ - Tin học TP.Hồ Chí Minh](https://huflit.edu.vn/) <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/09/Logo-DH-Ngoai-Ngu-Tin-Hoc-HUFLIT.png" alt="Loading" width="50" style ="border-radius:10% 50%; justify-content: center;" />
 
 ## Thành viên nhóm
 | MSSV | Tên sinh viên |
