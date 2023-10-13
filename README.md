@@ -2,7 +2,7 @@
 
 ## Môn: Thực hành đồ án án phần mềm
 
-## Đề Tài: App bán sách <img src="https://cdn.tgdd.vn/GameApp/2/224129/Screentshots/apple-books-ung-dung-doc-sach-danh-rieng-cho-ios-224129-logo-08-06-2020.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
+## Đề Tài: App bán sách <img src="https://cdn.tgdd.vn/GameApp/2/224129/Screentshots/apple-books-ung-dung-doc-sach-danh-rieng-cho-ios-224129-logo-08-06-2020.png" alt="Loading" width="40" style ="border-radius:10% 50%;" />
 
 ## Thành viên nhóm
 | MSSV | Tên sinh viên |
