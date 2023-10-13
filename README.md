@@ -15,10 +15,11 @@
 > - Thu thập thêm độc giả mới
 
 ### Mục tiêu:
-|---|---|
-| + Quản lý sách  | + Tìm kiếm nâng cao |
-| + Quản lý danh mục  | + Đánh giá |
-| + Quản lý đơn hàng  | + Thanh toán online |
+| 1 | 2 |
+|--|---|
+| + Quản lý sách | + Tìm kiếm nâng cao |
+| + Quản lý danh mục | + Đánh giá |
+| + Quản lý đơn hàng | + Thanh toán online |
 | + Quản lý khách hàng | + Xem trước e-book |
 | + Đăng nhập/ đăng ký | + Lịch sử đọc e-book |
 | + Đăng nhập = gmail | + Giỏ hàng |
