@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddBook">
+
+    <androidx.appcompat.widget.Toolbar
+        app:titleMarginStart="95dp"
+        android:background="#E64E07"
+        app:titleTextColor="@color/white"
+        android:id="@+id/toolbaraddbook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="Thêm sách">
+    </androidx.appcompat.widget.Toolbar>
+    <ScrollView
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Tên Sách:" />
+
+            <EditText
+                android:id="@+id/edt_book_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập tên sách"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Giá Sách:" />
+
+            <EditText
+                android:id="@+id/edt_book_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:singleLine="true"
+                android:hint="Nhập giá sách"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Tác giá:" />
+
+            <EditText
+                android:id="@+id/edt_book_author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập tác giả"
+                android:singleLine="true"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="7dp"
+                android:text="Thể loại:"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <Spinner
+                android:id="@+id/spinner_category"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:contentDescription="@string/app_name"
+                android:minHeight="48dp" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Image 1:" />
+
+            <EditText
+                android:id="@+id/imgBook1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập Image 1"
+                android:singleLine="true"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Image 2:" />
+
+            <EditText
+                android:id="@+id/imgBook2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập Image 2"
+                android:minHeight="48dp"
+                android:singleLine="true"
+                android:padding="9dp"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Image 3:" />
+
+            <EditText
+                android:id="@+id/imgBook3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập Image 3"
+                android:singleLine="true"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:padding="7dp"
+                android:text="Mô tả:" />
+
+            <EditText
+                android:id="@+id/edt_book_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:hint="Nhập mô tả"
+                android:minHeight="48dp"
+                android:padding="9dp"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/btn_addbook"
+        android:layout_margin="10dp"
+        app:cornerRadius="12dp"
+        android:layout_weight="0"
+        android:layout_gravity="center_horizontal"
+        android:text="Thêm"
+        android:textSize="17sp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
