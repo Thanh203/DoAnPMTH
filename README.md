@@ -15,6 +15,7 @@
 > - Thu thập thêm độc giả mới
 
 ### Mục tiêu:
+|---|---|
 | + Quản lý sách  | + Tìm kiếm nâng cao |
 | + Quản lý danh mục  | + Đánh giá |
 | + Quản lý đơn hàng  | + Thanh toán online |
@@ -23,10 +24,10 @@
 | + Đăng nhập = gmail | + Giỏ hàng |
 
 ## Công nghệ:
-- [ Android Studio ] (https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
-- [ SQLite ] (https://www.sqlite.org/index.html) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
-- [ Firebase ] (https://firebase.google.com/) <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
-- [ API ] (https://mona.media/api-la-gi/) <img src="https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" alt="Loading" width="20" style ="border-radius:10% 50%;" />
+- [ Android Studio ](https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
+- [ SQLite ](https://www.sqlite.org/index.html) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
+- [ Firebase ](https://firebase.google.com/) <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
+- [ API ](https://mona.media/api-la-gi/) <img src="https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 
 ## Phân công công việc:
 | STT | [ Lê Minh Thanh ](https://github.com/Thanh203) | [ Nguyễn Hoàng Anh Quốc ](https://github.com/AqGzs)| [ Đặng Trần Hoàng Phú Quý ](https://github.com/DTHPQuy) |
