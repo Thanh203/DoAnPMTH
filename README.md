@@ -1,5 +1,5 @@
 ﻿# DoAnPMTH
-## Đề Tài: App bán sách <img src="https://cdn.tgdd.vn/GameApp/2/224129/Screentshots/apple-books-ung-dung-doc-sach-danh-rieng-cho-ios-224129-logo-08-06-2020.png" alt="Loading" width="250" />
+## Đề Tài: App bán sách <img src="https://cdn.tgdd.vn/GameApp/2/224129/Screentshots/apple-books-ung-dung-doc-sach-danh-rieng-cho-ios-224129-logo-08-06-2020.png" alt="Loading" width="50" style ="border-radius:10% 50%;" />
 ### 21DH112864 - Đặng Trần Hoàng Phú Quý
 ### 21DH114100 - Lê Minh Thanh
 ### 21DH114057 - Nguyễn Hoàng Anh Quốc
