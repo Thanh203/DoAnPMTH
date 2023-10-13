@@ -4,10 +4,10 @@
 ### 21DH114100 - Lê Minh Thanh
 ### 21DH114057 - Nguyễn Hoàng Anh Quốc
 
-## Mục đích: 
+## Mục đích:
 > - Kiếm lợi nhuận
 > - Thu thập thêm độc giả mới
-  
+
 ### Mục tiêu:
 + Quản lý sách
 + Quản lý danh mục
@@ -25,8 +25,14 @@
 - [ Android Studio ] https://developer.android.com/
 - [ SQLite ] https://www.sqlite.org/index.html
 - [ Firebase ] https://firebase.google.com/
-- [ API ] https://mona.media/api-la-gi/ 
+- [ API ] https://mona.media/api-la-gi/
 ## Phân công công việc:
+| STT | [ Lê Minh Thanh ](https://github.com/Thanh203) | [ Nguyễn Hoàng Anh Quốc ](https://github.com/AqGzs)| [ Đặng Trần Hoàng Phú Quý ](https://github.com/DTHPQuy) |
+|-----------|--|------|-------|
+| Hàng 2    | + Đánh giá | + Đăng nhập/ đăng ký | + Quản lý sách |
+| Hàng 3    | + Thanh toán online | + Đăng nhập = gmail | + Quản lý danh mục |
+| Hàng 4    | + Lịch sử đọc e-book | + Tìm kiếm nâng cao | + Quản lý đơn hàng |
+| Hàng 4    | + Xem trước e-book | + Giỏ hàng | + Quản lý khách hàng |
 - [ Lê Minh Thanh ](https://github.com/Thanh203) :
   + Đánh giá
   + Thanh toán online
